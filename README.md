@@ -12,4 +12,5 @@ Prioritize states with large vulnerable populations.
 Assess data limitations that may prevent you from conducting your desired analyses. 
 # Data
 Population data by geography sourced by US Census Bureau https://www.census.gov/topics/population.html
+
 Influenza Deaths by geography, time, age, and gender from the CDC https://wonder.cdc.gov/ucd-icd10.html
